@@ -36,3 +36,7 @@ I'm working on putting together an AI agent that's all about understanding and r
 This is what I'm aiming to build. It's about making an Autonomous AI that doesn't just help publish books but does so in a way that's always one step ahead, thanks to real smarts and real data. Stay tuned to see how it turns out!
 
 It's an entire fricken publishing house!!
+
+## Why though?
+
+The approach I'm trying to demo is a prime example of how AI agents & automations can be applied across various stages of a product's market lifecycle, including analysis, production, marketing, inventory management, and customer support, using ML & AI to predict the most likely moves that turn a profit.
